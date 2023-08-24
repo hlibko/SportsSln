@@ -1,1 +1,2 @@
-# SportsSln
+# ASP.NET Core eCommerce App
+I demonstrated how ASP.NET Core can be used to create a realistic e-commerce application. This example introduced many key features: controllers, action methods, views, Razor Pages, Blazor, routing, validation, authentication, and more. You can also see how to use some of the key technologies related to how ASP.NET Core can be used. These included the Entity Framework Core, ASP.NET Core Identity, and unit testing. 
